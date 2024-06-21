@@ -1,4 +1,4 @@
-package loplus
+package lop
 
 import (
 	"fmt"

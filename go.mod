@@ -1,4 +1,4 @@
-module lo_plus
+module github.com/lieck/lop
 
 go 1.22
 
